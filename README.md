@@ -21,5 +21,5 @@ An interactive Sales Dashboard built in Microsoft Excel using Pivot Tables, Char
 ![Dashboard](Dashboard.png)
 
 ## Files
-- `Superstore_Sales_Dashboard.xlsx.csv` - Main Excel file
+- `Superstore_Sales_Dashboard_Final.xlsx` - Main Excel file
 - `Dashboard.png` - Dashboard preview
