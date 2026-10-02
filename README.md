@@ -18,7 +18,7 @@ An interactive Sales Dashboard built in Microsoft Excel using Pivot Tables, Char
 - **West region** is the most profitable
 
 ## Dashboard Preview
-![Dashboard](Dashboard.png)
+![Dashboard](Dashboard_new.png)   ← Naya naam
 
 ## Files
 - `Superstore_Sales_Dashboard_Final.xlsx` - Main Excel file
